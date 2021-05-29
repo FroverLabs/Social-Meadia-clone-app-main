@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  width: auto;
+
+}
+
+
+.app__body{
+  display: flex;
+  padding: 5px;
+  background-color: black;
+  background-image: repeating-linear-gradient(rgb(238, 238, 238), rgb(255, 255, 255))
+  /* justify-content: ; */
+}
+
